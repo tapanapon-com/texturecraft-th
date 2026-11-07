@@ -31,7 +31,25 @@
         "text": "เพิ่ม camera bookmarks ด้วย Ctrl+1…9 พร้อมการเคลื่อนมุมมองอย่างต่อเนื่อง",
         "source": "https://github.com/storytold/texturecraft/pull/260"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.4.0",
+        "publishedAt": "2026-11-06T20:22:12Z",
+        "url": "https://github.com/storytold/texturecraft/releases/tag/v0.4.0"
+      },
+      {
+        "tag": "v0.3.2",
+        "publishedAt": "2026-11-05T01:24:44Z",
+        "url": "https://github.com/storytold/texturecraft/releases/tag/v0.3.2"
+      },
+      {
+        "tag": "v0.3.1",
+        "publishedAt": "2026-11-04T18:09:10Z",
+        "url": "https://github.com/storytold/texturecraft/releases/tag/v0.3.1"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#texturecraft"
+  "versionLog": "https://github.com/tapanapon-com/texturecraft-th/blob/main/docs/version-log.md"
 }
