@@ -1,0 +1,37 @@
+{
+  "id": "texturecraft",
+  "name": "TextureCraft",
+  "repository": "https://github.com/tapanapon-com/texturecraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/texturecraft",
+    "releaseTag": "v0.4.0",
+    "releaseUrl": "https://github.com/storytold/texturecraft/releases/tag/v0.4.0",
+    "publishedAt": "2026-11-06T20:22:12Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "30414caa6b66c9d805cd5ada31271aee44f2c601",
+    "sourceVersion": "0.3.1",
+    "macDownload": "https://github.com/storytold/texturecraft/releases/download/v0.4.0/texturecraft-0.4.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/texturecraft/releases/download/v0.4.0/texturecraft-0.4.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/texturecraft/releases/download/v0.4.0/texturecraft-0.4.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/texturecraft/releases/download/v0.4.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "กู้เปิดโปรเจกต์เก่าที่ใช้ค่า bake settings ซึ่งเข้ากับรุ่นปัจจุบันไม่ได้",
+        "source": "https://github.com/storytold/texturecraft/pull/248"
+      },
+      {
+        "text": "เพิ่มรายการ mesh map bakers และการตั้งค่าแยกแต่ละ map ในโหมด Bake",
+        "source": "https://github.com/storytold/texturecraft/pull/257"
+      },
+      {
+        "text": "เพิ่ม camera bookmarks ด้วย Ctrl+1…9 พร้อมการเคลื่อนมุมมองอย่างต่อเนื่อง",
+        "source": "https://github.com/storytold/texturecraft/pull/260"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#texturecraft"
+}
