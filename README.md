@@ -79,7 +79,7 @@ TextureCraft TH is an independent Thai-edition preparation project for [TextureC
 
 ### Features and workflow
 
-ระบายพื้นผิวบนโมเดล 3 มิติและทำงานกับ texture maps. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Paint PBR textures on 3D models using layers, masks and mesh-map baking, then export texture maps. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
